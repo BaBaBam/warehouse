@@ -1,0 +1,15 @@
+Read |
+_____|
+_________"" __________
+
+run program with cmd
+file name WH-10.py
+_________""__________
+download and place in desktop 
+file WH-10.py 
+open with cmd 
+open and follow this step 
+_________________________
+cd desktop
+python Warehouse.py
+_________________________
